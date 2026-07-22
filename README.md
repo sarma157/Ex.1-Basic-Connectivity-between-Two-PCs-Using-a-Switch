@@ -39,6 +39,13 @@ For Router Configuration (CLI):<br>
 
 ________________________________________
 # Output (Screenshots / Ping Results)
+<img width="983" height="767" alt="Screenshot 2026-07-22 112233" src="https://github.com/user-attachments/assets/1878aab3-5c94-4794-838e-4e9bface879f" />
+<img width="1081" height="677" alt="Screenshot 2026-07-22 112244" src="https://github.com/user-attachments/assets/8fdf073e-9ead-4d47-8068-9c906a5c8d8b" />
+<img width="1367" height="840" alt="Screenshot 2026-07-22 112308" src="https://github.com/user-attachments/assets/190d9fff-fac6-4b57-a4fd-5b11fdbbc9a6" />
+<img width="1918" height="1132" alt="Screenshot 2026-07-22 112429" src="https://github.com/user-attachments/assets/4cee778d-5f71-4ea6-ad5e-b1d2bbcdb280" />
+
+
+
 
 Insert screenshots showing ping success, configuration, or simulation results.
 ________________________________________
